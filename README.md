@@ -41,10 +41,10 @@ yearly attendance.
 
 Simple linear regression models for each quarter are as follows:
 
-Quarter 1: y =10890+1.304x     →AdjR^2=0.3583    
-Quarter 2: y =17970.191+1.518x     →AdjR^2=0.6258
-Quarter 3: y =20810+1.179x     →AdjR^2=0.7931
-Quarter 4: y =9424.0035+1.5147x     →AdjR^2=0.7451
+Quarter 1: y =10890+1.304x     →AdjR^2=0.3583      
+Quarter 2: y =17970.191+1.518x     →AdjR^2=0.6258  
+Quarter 3: y =20810+1.179x     →AdjR^2=0.7931  
+Quarter 4: y =9424.0035+1.5147x     →AdjR^2=0.7451  
 
 To calculate the total park attendance for a specific quarter, substitute the number of visitors using the Main 
 Park gate in that quarter to x and solve for y. This y value is the total park attendance for that quarter with 
